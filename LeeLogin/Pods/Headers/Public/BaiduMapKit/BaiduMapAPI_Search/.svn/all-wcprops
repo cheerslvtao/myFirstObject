@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search
+END
+BMKSearchBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKSearchBase.h
+END
+BMKShareUrlSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKShareUrlSearchOption.h
+END
+BMKPoiSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKPoiSearchOption.h
+END
+BMKSuggestionSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKSuggestionSearchOption.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKGeocodeType.h
+END
+BMKShareURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKShareURLSearch.h
+END
+BMKSearchVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKSearchVersion.h
+END
+BMKDistrictSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKDistrictSearch.h
+END
+BMKRouteSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKRouteSearchOption.h
+END
+BMKPoiSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKPoiSearch.h
+END
+BMKSuggestionSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKSuggestionSearch.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKPoiSearchType.h
+END
+BMKBusLineSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKBusLineSearchOption.h
+END
+BMKRouteSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKRouteSearch.h
+END
+BMKGeocodeSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKGeocodeSearchOption.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKRouteSearchType.h
+END
+BMKBusLineSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKBusLineSearch.h
+END
+BMKSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKSearchComponent.h
+END
+BMKGeocodeSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Search/BMKGeocodeSearch.h
+END

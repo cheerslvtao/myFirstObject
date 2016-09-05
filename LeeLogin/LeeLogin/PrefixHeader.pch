@@ -1,0 +1,65 @@
+//
+//  PrefixHeader.pch
+//  HeartFuture
+//
+//  Created by 光之翼 on 16/7/5.
+//  Copyright © 2016年 光之翼. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+#define SCREEN_width [UIScreen mainScreen].bounds.size.width//屏幕宽
+#define SCREEN_height [UIScreen mainScreen].bounds.size.height//屏幕高
+#define SCREEN_bounds [UIScreen mainScreen].bounds//屏幕大小
+#define THIRTEEN [UIFont systemFontOfSize:20]//字体大小
+#define IS_IPHONE5 [UIScreen mainScreen].bounds.size.height<600?YES:NO
+#define IS_IPHONE6Plus [UIScreen mainScreen].bounds.size.height>700?YES:NO
+#define USER_D [NSUserDefaults standardUserDefaults]//本地存储信息
+#define NOTI_CENTER [NSNotificationCenter defaultCenter]//监听
+#define FILE_M [NSFileManager defaultManager]//管理者
+//自定义颜色
+#define COLOR(R, G, B, A) [UIColor colorWithRed:R/255.0 green:G/255.0 blue:B/255.0 alpha:A]
+#define BGCOLOR  [UIColor colorWithRed:244/255.0 green:245/255.0 blue:247/255.0 alpha:1]//背景颜色
+#define TEXTCOLOR COLOR(140, 150, 161, 1)//字体颜色
+#import "LeeAllView.h"//自定义视图
+#import "NvigationItemSingle.h"
+#import "HTTPURL.h"//网络请求
+#import "UIImageView+AFNetworking.h"
+#import "UIButton+AFNetworking.h"
+#import "UICommonView.h"
+#import <objc/runtime.h>
+#import <BaiduMapAPI_Base/BMKBaseComponent.h>//引入base相关所有的头文件
+
+#import <BaiduMapAPI_Map/BMKMapComponent.h>//引入地图功能所有的头文件
+
+#import <BaiduMapAPI_Search/BMKSearchComponent.h>//引入检索功能所有的头文件
+
+#import <BaiduMapAPI_Cloud/BMKCloudSearchComponent.h>//引入云检索功能所有的头文件
+
+#import <BaiduMapAPI_Location/BMKLocationComponent.h>//引入定位功能所有的头文件
+
+#import <BaiduMapAPI_Utils/BMKUtilsComponent.h>//引入计算工具所有的头文件
+
+#import <BaiduMapAPI_Radar/BMKRadarComponent.h>//引入周边雷达功能所有的头文件
+
+#import <BaiduMapAPI_Map/BMKMapView.h>//只引入所需的单个头文件
+#define BACK_NAVIGATION [NvigationItemSingle standSingle]
+#define VE_CODE [USER_D objectForKey:@"ve_code"]//ve_code
+#define SECRET [USER_D objectForKey:@"secret"]//秘密 
+#define PWD [USER_D objectForKey:@"password"]//密码
+#define ACCESS_TOKEN [USER_D objectForKey:@"token"] //授权令牌
+#define IP [USER_D objectForKey:@"IP"]//手机IP
+#define HTTP_URL_INIT [[HTTPURL alloc]init]
+#define NSUSERDEFAULTS [NSUserDefaults standardUserDefaults] //userdefaults
+#define BASE_URL @"http://60.205.126.168:8081/apiH5" //基础网址  110.249.213.29   60.205.126.168
+#define LINK_URL(subUrl) [NSString stringWithFormat:@"%@%@?access_token=%@&htoken=%@",BASE_URL,subUrl,ACCESS_TOKEN,ACCESS_TOKEN] //网址拼接
+#define LINK_BASE_URL(subUrl) [NSString stringWithFormat:@"%@%@",BASE_URL,subUrl] //网址拼接
+#define ALERT(TISHI,NEIRONG) [UIAlertController alertControllerWithTitle:TISHI message:NEIRONG preferredStyle: UIAlertControllerStyleAlert]//提示框
+#define LINK_TASK_URL(id) [NSString stringWithFormat:@"%@/task/details?access_token=%@&htoken=%@&taskId=%@",BASE_URL,ACCESS_TOKEN,ACCESS_TOKEN,id]
+
+

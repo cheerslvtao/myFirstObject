@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xwl_ios/!svn/ver/207/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication
+END
+MyAuthenticatioinCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/xwl_ios/!svn/ver/150/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/MyAuthenticatioinCell.xib
+END
+FillInformationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xwl_ios/!svn/ver/26/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/FillInformationViewController.h
+END
+MyAuthenticatioinCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xwl_ios/!svn/ver/131/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/MyAuthenticatioinCell.h
+END
+FillInformationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/xwl_ios/!svn/ver/205/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/FillInformationViewController.m
+END
+RealNameCheckModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/xwl_ios/!svn/ver/143/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RealNameCheckModel.h
+END
+MyAuthenticatioinCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xwl_ios/!svn/ver/167/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/MyAuthenticatioinCell.m
+END
+RefuseAlertView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xwl_ios/!svn/ver/43/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RefuseAlertView.xib
+END
+RealNameCheckModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/xwl_ios/!svn/ver/132/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RealNameCheckModel.m
+END
+AuthenticationCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/xwl_ios/!svn/ver/143/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/AuthenticationCell.xib
+END
+CDCardCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xwl_ios/!svn/ver/159/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/CDCardCell.xib
+END
+CheckViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/xwl_ios/!svn/ver/131/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/CheckViewController.h
+END
+RefuseAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xwl_ios/!svn/ver/43/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RefuseAlertView.h
+END
+MineInfomation.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xwl_ios/!svn/ver/134/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/MineInfomation.h
+END
+NvigationItemSingle.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/xwl_ios/!svn/ver/26/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/NvigationItemSingle.h
+END
+AuthenticationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xwl_ios/!svn/ver/26/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/AuthenticationCell.h
+END
+CDCardCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xwl_ios/!svn/ver/123/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/CDCardCell.h
+END
+CheckViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/xwl_ios/!svn/ver/145/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/CheckViewController.m
+END
+RefuseAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xwl_ios/!svn/ver/167/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RefuseAlertView.m
+END
+MineInfomation.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xwl_ios/!svn/ver/124/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/MineInfomation.m
+END
+RealNameAuthenticationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/xwl_ios/!svn/ver/26/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RealNameAuthenticationViewController.h
+END
+NvigationItemSingle.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/xwl_ios/!svn/ver/26/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/NvigationItemSingle.m
+END
+AuthenticationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xwl_ios/!svn/ver/26/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/AuthenticationCell.m
+END
+CDCardCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xwl_ios/!svn/ver/143/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/CDCardCell.m
+END
+RealNameAuthenticationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xwl_ios/!svn/ver/207/HeartFuture/LeeLogin/LeeLogin/RealNameAuthentication/RealNameAuthenticationViewController.m
+END

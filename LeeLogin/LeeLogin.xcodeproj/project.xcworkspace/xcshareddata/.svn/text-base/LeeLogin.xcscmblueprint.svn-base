@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55f705e9-aa50-4161-813d-639d82fd2b22++7770",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "55f705e9-aa50-4161-813d-639d82fd2b22++7770" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55f705e9-aa50-4161-813d-639d82fd2b22++7770" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "72369A44-243E-4480-B10B-BE264D97159E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55f705e9-aa50-4161-813d-639d82fd2b22++7770" : "HeartFuture\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LeeLogin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LeeLogin\/LeeLogin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/xwl_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55f705e9-aa50-4161-813d-639d82fd2b22++7770"
+    }
+  ]
+}

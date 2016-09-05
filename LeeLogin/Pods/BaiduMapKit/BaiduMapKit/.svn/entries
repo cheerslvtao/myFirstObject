@@ -1,0 +1,49 @@
+10
+
+dir
+229
+http://lixuehu@www.svnchina.com/svn/xwl_ios/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit
+http://lixuehu@www.svnchina.com/svn/xwl_ios
+
+
+
+2016-08-12T02:08:41.475314Z
+58
+lixuehu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55f705e9-aa50-4161-813d-639d82fd2b22
+
+BaiduMapAPI_Location.framework
+dir
+
+BaiduMapAPI_Radar.framework
+dir
+
+BaiduMapAPI_Base.framework
+dir
+
+BaiduMapAPI_Map.framework
+dir
+
+BaiduMapAPI_Utils.framework
+dir
+
+BaiduMapAPI_Search.framework
+dir
+
+BaiduMapAPI_Cloud.framework
+dir
+

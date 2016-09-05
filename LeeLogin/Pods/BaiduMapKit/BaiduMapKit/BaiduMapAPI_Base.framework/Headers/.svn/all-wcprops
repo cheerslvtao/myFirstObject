@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/xwl_ios/!svn/ver/58/HeartFuture/LeeLogin/Pods/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h
+END
